@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009035649153",
+    "project_id": "mad-project-1-c2948",
+    "storage_bucket": "mad-project-1-c2948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009035649153:android:fb8a162cd7c08687e8ed80",
+        "android_client_info": {
+          "package_name": "com.mad.eventfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3rJ4Z0B-8QKH1jxaWjyiyHpv4ilIULw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
