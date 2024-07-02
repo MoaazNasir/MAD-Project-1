@@ -15,3 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # MAD-Project-1
+
+The Local Event Finder Application should run without much effort. 
+Once the program is ran through and debugged, the application should open and run.
+You can register a new user with your own username and password.
+However, a premade user is:
+    Username: user
+    Password: password123
+
+Attached within the submitted files is a file of screenshots showing the troubles we went through connecting the API to the application.
